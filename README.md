@@ -8,11 +8,11 @@ Wizire Inc. is a fictional Software-as-a-Service(SaaS) company with 75-100 emplo
 - User accounts organized by departments with role-based access
 - Group Policy Objects (GPOs) for permission management
 - Network security practices
-- Python automation scripts for user oboarding and provisioning
-- Network infrastructure with VLAN segementation
+- Python automation scripts for user onboarding and provisioning
+- Network infrastructure with VLAN segmentation
 - Professional logging and documentation of all operations
 ### Real World Application
-This lab demonstates enterprise IT operations you'll find in real environments
+This lab demonstrates enterprise IT operations you'll find in real environments
 - How to structure Active Directory for departments and roles
 - How to implement least privilege access control
 - How to automate repetitive user provisioning tasks
