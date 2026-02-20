@@ -12,15 +12,21 @@ Wizire Inc. is a fictional Software-as-a-Service(SaaS) company with 75-100 emplo
 - Network infrastructure with VLAN segmentation
 - Professional logging and documentation of all operations
 ## Company Structure
-Business Type: SaaS
-Product: Proprietary software platform sold to external customers in the Finance industry.
-Employee Count: 75-100
+**Business Type:** SaaS
+
+**Product:** Proprietary software platform sold to external customers in the Finance industry.
+
+**Employee Count:** 75-100
 ### Departments 
-**IT:** Contains users such as Network Engineers, Help Desk Analysts, Developers, and System Admins. 
-**HR:** Includes users such as HR Administrators and Benefit Specialists.
-**Finance:** Contains users such as Accountants, Payroll Specialists, Accounts Payable
-**Sales:** Includes users such as Account Managers and Sales Representatives.
-**Operations:** Contains users such as Client Representatives, Operations Analysts.
+**1. IT:** Contains users such as Network Engineers, Help Desk Analysts, Developers, and System Admins. 
+
+**2. HR:** Includes users such as HR Administrators and Benefit Specialists.
+
+**3. Finance:** Contains users such as Accountants, Payroll Specialists, Accounts Payable
+
+**4. Sales:** Includes users such as Account Managers and Sales Representatives.
+
+**5. Operations:** Contains users such as Client Representatives and Operations Analysts.
 ### Real World Application
 This lab demonstrates enterprise IT operations you'll find in real environments
 - How to structure Active Directory for departments and roles
