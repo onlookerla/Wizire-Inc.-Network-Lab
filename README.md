@@ -18,3 +18,11 @@ This lab demonstates enterprise IT operations you'll find in real environments
 - How to automate repetitive user provisioning tasks
 - How to maintain detailed audit logs
 - How to document infrastructure professionally
+## Technology Stack
+- Hypervisor: VirtualBox
+- Server OS: Windows 2019 and Ubuntu
+- Client OS: Windows 11
+- Services: Active Directory, DNS, DHCP, 
+- Firewall: pfSense
+- Monitoring: Wazuh
+- Cloud: Azure
