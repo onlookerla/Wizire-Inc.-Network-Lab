@@ -38,7 +38,7 @@ This lab demonstrates enterprise IT operations you'll find in real environments
 - Hypervisor: VirtualBox
 - Server OS: Windows 2019 and Ubuntu
 - Client OS: Windows 11
-- Services: Active Directory, DNS, DHCP, 
+- Services: Active Directory, DNS, DHCP
 - Firewall: pfSense
 - Monitoring: Wazuh
 - Cloud: Azure
