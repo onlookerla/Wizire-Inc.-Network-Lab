@@ -42,3 +42,15 @@ This lab demonstrates enterprise IT operations you'll find in real environments
 - Firewall: pfSense
 - Monitoring: Wazuh
 - Cloud: Azure
+
+## Documentation
+- [Getting Started](./GETTING_STARTED/README.md)
+- [Infrastructure](./INFRASTRUCTURE/README.md)
+- [Active Directory](./ACTIVE_DIRECTORY/README.md)
+- [Security](./SECURITY/README.md)
+- [Monitoring](./MONITORING/README.md)
+- [Automation](./AUTOMATION/README.md)
+- [Deployment](./DEPLOYMENT/README.md)
+- [Testing](./TESTING/README.md)
+- [Reference](./REFERENCE/README.md)
+
