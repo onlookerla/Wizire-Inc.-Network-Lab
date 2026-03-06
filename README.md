@@ -17,6 +17,9 @@ Wizire Inc. is a fictional Software-as-a-Service(SaaS) company with 75-100 emplo
 **Product:** Proprietary software platform sold to external customers in the Finance industry.
 
 **Employee Count:** 75-100
+
+**Locations:** New York City (HQ), Chicago, San Francisco, Dallas
+
 ### Departments 
 **1. IT:** Contains users such as Network Engineers, Help Desk Analysts, Developers, and System Admins. 
 
